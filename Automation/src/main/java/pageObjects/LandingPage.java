@@ -26,7 +26,8 @@ public WebElement getLogin()
 }
 public  WebElement gettitle()
 {
-
+	System.out.println("gi4234243");
+	System.out.println("gi4234444444243");
 	return driver.findElement(title);
 }
 public  WebElement getContactbar()
